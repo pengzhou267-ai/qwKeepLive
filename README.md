@@ -1,3 +1,9 @@
+# mac版：
+链接: https://pan.baidu.com/s/1xIu7-2k9-0VXpSNs61B-ig?pwd=m9t2 提取码: m9t2
+
+# Windows版:
+链接: https://pan.baidu.com/s/1VAl1Ngt273wzBpjfgNlrYQ?pwd=3d48 提取码: 3d48
+
 > 防止电脑休眠，并通过定期保活事件提升企业微信/QQ活跃状态保持成功率的工具
 
 ## 常见问题
