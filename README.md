@@ -17,7 +17,7 @@
 
 | 平台 | 链接 |
 |------|------|
-| macOS | <https://pan.quark.cn/s/b3fe5a8616de> |
+| macOS | <https://pan.quark.cn/s/09b27c830ea1> |
 | Windows | <https://pan.quark.cn/s/72b2333e9221> |
 
 ### macOS
