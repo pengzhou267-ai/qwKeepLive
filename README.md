@@ -11,7 +11,7 @@
 
 **推荐**：打开下载页，按平台选择安装包（有更新时会同步到该页）。
 
-- 下载页：<https://wanpan.19930312.xyz/#download>
+- 下载页：<https://wanpan.19930312.xyz/download>
 
 夸克网盘直链（v1.0.1）：
 
@@ -44,7 +44,8 @@
 相关地址：
 
 - 验证服务：<https://verify.19930312.xyz>
-- 安装包 / 资料页：<https://wanpan.19930312.xyz>
+- 学习资料：<https://wanpan.19930312.xyz/zl>
+- 安装包下载：<https://wanpan.19930312.xyz/download>
 
 > 验证仅用于访问控制；保活逻辑仍在本地运行，不会上传鼠标轨迹或聊天内容。
 
@@ -120,7 +121,7 @@ defaults delete com.yourname.Working
 ### v1.0.1
 
 - 验证服务迁移至 `verify.19930312.xyz`
-- 安装包统一下载页 `wanpan.19930312.xyz/#download`
+- 安装包下载页 `wanpan.19930312.xyz/download`
 - 修复过期后仍显示「运行中」等体验问题
 
 ### v1.0
